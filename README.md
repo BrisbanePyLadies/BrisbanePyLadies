@@ -19,5 +19,5 @@ And if you'd like to get some more information about our parent organization, ch
 
 Sponsorship
 
-If you're interested in sponsoring an event or being an event host, please contact us via meetup https://www.meetup.com/BrisbanePyLadies/!
+If you're interested in attending our events, register via meetup https://www.meetup.com/BrisbanePyLadies/!
 
