@@ -17,7 +17,7 @@ Brisbane PyLadies is dedicated to providing a respectful, harassment-free commun
 
 And if you'd like to get some more information about our parent organization, check out the web site: [http://www.pyladies.com](http://www.pyladies.com/) (http://www.pyladies.com/)
 
-Sponsorship
+Attend our meetup events!
 
 If you're interested in attending our events, register via meetup https://www.meetup.com/BrisbanePyLadies/!
 
